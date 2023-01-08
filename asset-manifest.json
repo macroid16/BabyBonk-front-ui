@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ecfe1b4c.chunk.css",
+    "main.js": "/static/js/main.c3757a81.chunk.js",
+    "main.js.map": "/static/js/main.c3757a81.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.99a20c83.js",
+    "runtime-main.js.map": "/static/js/runtime-main.99a20c83.js.map",
+    "static/js/2.ee09059c.chunk.js": "/static/js/2.ee09059c.chunk.js",
+    "static/js/2.ee09059c.chunk.js.map": "/static/js/2.ee09059c.chunk.js.map",
+    "static/js/3.390a8b95.chunk.js": "/static/js/3.390a8b95.chunk.js",
+    "static/js/3.390a8b95.chunk.js.map": "/static/js/3.390a8b95.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ecfe1b4c.chunk.css.map": "/static/css/main.ecfe1b4c.chunk.css.map",
+    "static/js/2.ee09059c.chunk.js.LICENSE.txt": "/static/js/2.ee09059c.chunk.js.LICENSE.txt",
+    "static/media/cool-cats.feee1ffc.gif": "/static/media/cool-cats.feee1ffc.gif",
+    "static/media/Page.css": "/static/media/fondodenochediamond3.b8cd82e3.png",
+    "static/media/logo.2f946cb3.png": "/static/media/logo.2f946cb3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99a20c83.js",
+    "static/js/2.ee09059c.chunk.js",
+    "static/css/main.ecfe1b4c.chunk.css",
+    "static/js/main.c3757a81.chunk.js"
+  ]
+}
